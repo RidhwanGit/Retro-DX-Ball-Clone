@@ -4,7 +4,7 @@ This project was originally developed as a coursework assignment for **CSE423 (C
 
 After completing the course requirements, I personally expanded and modified the project to give it a complete retro-futuristic visual overhaul, adding features like a dynamic starfield, glowing effects, and stylized pixel-art icons to create a more polished and engaging final product.
 
-![Gameplay Screenshot](Game Over.png)
+![Gameplay Screenshot](Powerup.png)
 
 ## Features
 -   Classic block-breaking gameplay across two challenging levels.
